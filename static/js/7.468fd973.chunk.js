@@ -1,2 +1,0 @@
-(this.webpackJsonpmsf=this.webpackJsonpmsf||[]).push([[7],{242:function(e,n,a){"use strict";a.r(n);var s=a(38),t=Object(s.defineMessages)({app_name:"Mohamed Sarjun",about:"\xdcber",home:"Startseite",experience:"Erfahrung",education:"Bildung",skills:"Erfahrung",page_not_found:"Seite nicht gefunden",language:"Sprache",en:"Englisch",de:"Deutsch"});n.default=t}}]);
-//# sourceMappingURL=7.468fd973.chunk.js.map
