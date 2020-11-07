@@ -1,0 +1,2 @@
+(this.webpackJsonpmsf=this.webpackJsonpmsf||[]).push([[8],{248:function(e,n,t){"use strict";t.r(n);var s=t(39),i=Object(s.defineMessages)({app_name:"Mohamed Sarjun",about:"\xdcber",home:"Startseite",experience:"Erfahrung",education:"Bildung",skills:"Erfahrung",page_not_found:"Seite nicht gefunden",settings:"Einstellungen",language:"Sprache",en:"Englisch",de:"Deutsch",primary_skills:"Grundfertigkeiten",secondary_skills:"Sekund\xe4re F\xe4higkeiten",poc:"POC",face_detection:"Face Detection"});n.default=i}}]);
+//# sourceMappingURL=8.4a3da42f.chunk.js.map
