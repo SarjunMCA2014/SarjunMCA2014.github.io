@@ -1,0 +1,2 @@
+(this.webpackJsonpmsf=this.webpackJsonpmsf||[]).push([[4],{252:function(e,t,n){"use strict";n.r(t);var s=n(0),a=n.n(s),c=n(12);t.default=function(){return a.a.createElement("div",null,a.a.createElement(c.c,{to:"/profile"}))}}}]);
+//# sourceMappingURL=4.f71892c0.chunk.js.map
