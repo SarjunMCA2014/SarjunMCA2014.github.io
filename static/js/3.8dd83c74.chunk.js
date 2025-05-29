@@ -1,0 +1,2 @@
+(this.webpackJsonpmsf=this.webpackJsonpmsf||[]).push([[3],{283:function(e,a,n){"use strict";n.r(a);var s=n(22),t=Object(s.defineMessages)({app_name:"Eco Tracker",profile:"Profile",personalSummaryDaily:"Personal Summary",summaryWeekly:"Summary",impact:"Impact",actionableSuggestions:"Actionable Suggestions",page_not_found:"Seite nicht gefunden",settings:"Einstellungen",language:"Sprache",en:"Englisch",de:"Deutsch"});a.default=t}}]);
+//# sourceMappingURL=3.8dd83c74.chunk.js.map
