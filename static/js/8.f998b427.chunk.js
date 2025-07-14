@@ -1,0 +1,2 @@
+(this.webpackJsonpmsf=this.webpackJsonpmsf||[]).push([[8],{243:function(e,s,n){"use strict";n.r(s);var a=n(39),i=Object(a.defineMessages)({app_name:"Mohamed Sarjun",about:"About",experience:"Experience",education:"Education",skills:"Skills",page_not_found:"Page not found",settings:"Settings",language:"Language",en:"English",de:"German",primary_skills:"Primary Skills",secondary_skills:"Secondary Skills"});s.default=i}}]);
+//# sourceMappingURL=8.f998b427.chunk.js.map
